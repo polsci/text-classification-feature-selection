@@ -22,6 +22,8 @@ downloaded = nltk.download('wordnet')
 
 from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS as sklearn_stop_words
 from sklearn.feature_selection import mutual_info_classif
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.pipeline import Pipeline
