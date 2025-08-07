@@ -1,5 +1,15 @@
 # Change log
 
+## [1.0.2] - 2025-08-07 - migrate to Textplumber
+
+### Changed:
+
+- Updated notebook to use [Textplumber](https://geoffford.nz/textplumber) over the previous helper file import.
+
+### Removed:
+
+- Removed `text_classification_introduction_helpers.py`
+
 ## [1.0.1] - 2025-03-25
 
 ### Changed:
