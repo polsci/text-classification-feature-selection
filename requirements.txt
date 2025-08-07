@@ -4,3 +4,4 @@ pandas
 matplotlib
 nltk
 datasets
+textplumber

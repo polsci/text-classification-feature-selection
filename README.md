@@ -1,6 +1,6 @@
 # Text Classification with Feature Selection and Grid Search
 
-The notebook in this repository is provided for students in DIGI405 at the University of Canterbury for a lab introducing feature selection and grid search components of a Scikit-learn pipeline.   
+The notebook in this repository is provided for students in DIGI405 at the University of Canterbury for a lab introducing feature selection and grid search components of a Scikit-learn pipeline. It is intended to follow the [Text Classification Introduction](https://github.com/polsci/text-classification-introduction) notebook.   
 
 Changes and release version numbers are documented in the [CHANGELOG](CHANGELOG.md).
 
@@ -19,8 +19,6 @@ The following people have contributed revisions:
 Create a folder on our JupyterHub server for this notebook. Upload the files to the new folder and then open the Jupyter notebook.  
 
 ## Installation  
-
-If you are running this on the class JupyterHub server for the first time you should install the Datasets library using the first code cell of the notebook.  
 
 If you are running this notebook on your own machine, you can install the necessary libraries using the following command:
 
